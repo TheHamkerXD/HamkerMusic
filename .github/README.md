@@ -68,7 +68,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://te.legra.ph/file/b09cdfe8fb553fdd976eb.jpg">
+  <img src="https://te.legra.ph/file/02acee9c5f28c5a9baeff.jpg">
 </p>
 
 </details>
@@ -91,7 +91,7 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheHamkerXD)  ғᴏʀ  [ʜᴀᴍᴋᴇʀ ᴍᴜsɪᴄ](https://github.com/TheHamkerXD/HamkerMusic) </b>
+- <b>[ᴛʜᴇ ʜᴀᴍᴋᴇʀ xᴅ](https://github.com/TheHamkerXD)  ғᴏʀ  [ʜᴀᴍᴋᴇʀ ᴍᴜsɪᴄ](https://github.com/TheHamkerXD/HamkerMusic) </b>
 - <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram) </b>
 - <b>[ʟᴀᴋʏ](https://github.com/Laky-64)  ғᴏʀ  [ᴘʏ-ᴛɢᴄᴀʟʟs](https://github.com/pytgcalls/pytgcalls) </b>
 
